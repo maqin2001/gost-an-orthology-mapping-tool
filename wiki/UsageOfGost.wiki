@@ -68,7 +68,7 @@ The input data must be available for the program to run normally. Formats must b
 =Contact=
 Any questions, problems, bugs are welcome and should be dumped to
 
-Qin Ma <maqin@csbl.bmb.uga.edu>
+Qin Ma <maqin@uga.edu>
 
 Yu Zhang <zy26@jlu.edu.cn>
 
