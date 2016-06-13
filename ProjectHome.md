@@ -3,7 +3,7 @@ Existing methods for orthologous gene mapping suffer from two general problems: 
 
 The related data sets and results can be found at http://csbl.bmb.uga.edu/~maqin/GOST/.
 
-## Citing us ##
+## Citing Us ##
 Guojun Li, Qin Ma (co-first), Xizeng Mao, Yanbin Yin, Xiaoran Zhu, Ying Xu, Integration of Sequence-Similarity and Functional Association Information Can Overcome Intrinsic Problems in Orthology Mapping across Bacterial Genomes, Nucleic Acids Research, 2011, 1-9, doi:10.1093/nar/gkr766
 
 
